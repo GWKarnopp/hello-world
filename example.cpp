@@ -15,7 +15,7 @@ int main()
     cin >> color;
 
     cout << endl;
-    cout << "So can I call you " << color << " " << name << "?" << endl;
+    cout << "Do people call you?" << color << " " << name << "?" << endl;
 
 	// test 1 2 3
 
